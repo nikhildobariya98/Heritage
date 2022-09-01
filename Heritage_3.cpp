@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
@@ -75,5 +74,4 @@ using namespace std;
     info.B::GetData();
     info.PutData();
 
-    return 0;
  }
